@@ -6,7 +6,7 @@ This is will host the codebase for the second version of my portfolio website
 1. Install Vue CLi version 4
 
    ```sh
-   npm install -g gatsby-cli
+   npm install -g @vue/cli 
    ```
 2. Install and use the correct version of Node using [NVM](https://github.com/nvm-sh/nvm)
 
@@ -35,17 +35,5 @@ This is will host the codebase for the second version of my portfolio website
    ```sh
    npm run build
    ```
-
-
-
-
-
-### Run your unit tests
-
-
-### Lints and fixes files
-```
-npm run lint
-```
 
 
