@@ -1,6 +1,6 @@
 <template>
   <div class="about">
-       <!-- loader   -->
+   <!-- loader   -->
         <div class="loader">
             <div class="loading-text-container "><span class="loading-text">Loading</span> <span class="loader_count">0</span></div>
             <div class="loader-anim"></div>
@@ -209,7 +209,7 @@
                                     <div class="row">
                                         <div class="col-sm-5">
                                             <div class="dec-img   fl-wrap">
-                                                <img src="images/woman-5689237_1920.png" class="respimg" alt="">
+                                                <img src="images/bulb-5665770_1920.jpg" class="respimg" alt="">
                                                 <a class="video_link image-popup" href="https://vimeo.com/34741214"><i class="fas fa-play"></i><span>Play Story video</span></a>
                                             </div>
                                         </div>
@@ -533,3 +533,16 @@
         <!-- Main end -->
   </div>
 </template>
+
+<script lang="ts">
+import { Component, Vue } from 'vue-property-decorator';
+
+
+@Component({
+  components: {
+
+  },
+})
+export default class Home extends Vue {}
+</script>
+
