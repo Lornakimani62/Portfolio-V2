@@ -8,17 +8,17 @@
                             <nav class="nav-inner" id="menu">
                                 <ul>
                                     <li>
-                                        <a href="#" class="act-link">Home</a>
+                                        <a href="/" class="act-link">Home</a>
                                     </li>
-                                    <li><a href="#" class="ajax">About</a></li>
+                                    <li><router-link to="/comingsoon">About</router-link></li>
                                     <li>
-                                        <a href="#">Portfolio</a>
+                                        <router-link to="/comingsoon">Portfolio</router-link>
                                     </li>
                                     <li>
-                                      <a href="#" class="ajax">Contacts</a>
+                                      <router-link to="/comingsoon">Contacts</router-link>
                                       </li>
                                     <li>
-                                      <a href="#" class="ajax" target="_blank">Resume</a>
+                                      <a href="resume.pdf" class="ajax" target="_blank">Resume</a>
                                     </li>
                                 </ul>
                             </nav>
