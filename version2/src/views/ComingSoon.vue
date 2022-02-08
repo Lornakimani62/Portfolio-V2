@@ -58,7 +58,7 @@
                 </div>
               </div>
               <h1>
-                Work In Progress - <br /><span>Creating Amazing</span> Designs<br/>Coming by<br><span>September, 2021</span>
+                Work In Progress - <br /><span>Creating Amazing</span> Designs<br/>Coming by<br><span>April, 2022</span>
               </h1>
               <div class="clearfix"></div>
               <a href="#" class="btn ajax fl-btn color-bg"
